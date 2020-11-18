@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "358929693683",
+    "firebase_url": "https://boxchat-60f6c.firebaseio.com",
+    "project_id": "boxchat-60f6c",
+    "storage_bucket": "boxchat-60f6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358929693683:android:82e6103789b2a44bfff086",
+        "android_client_info": {
+          "package_name": "com.example.boxchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358929693683-pllqsbn6h4srsi3t2rlfa6og3111sml3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.boxchat",
+            "certificate_hash": "04c7e4baeeaa478a8dff6e0aa8ab5228e678f4d2"
+          }
+        },
+        {
+          "client_id": "358929693683-iijrfkgsbr5t4civ0r4sf0mvc5ocljem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ptEWQA_F3q9huB0WyJCt2QfZC7nCLBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358929693683-iijrfkgsbr5t4civ0r4sf0mvc5ocljem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
